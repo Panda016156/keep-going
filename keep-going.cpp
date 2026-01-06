@@ -14,7 +14,7 @@
 int main(int argc, char* argv[]) {
     static const std::vector<std::string> messages = {
         "Keep Going!",
-        "You’ve got this. Keep going.",
+        "You've got this. Keep going.",
         "Still standing. Keep going.",
         "One step at a time. Keep going.",
         "Ship it. Keep going."
